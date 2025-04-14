@@ -42,7 +42,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/OlgaP15/website-Zernyshko.git
+   gh repo clone OlgaP15/Zernyshko
 
 ## 📄 Лицензия.
 
